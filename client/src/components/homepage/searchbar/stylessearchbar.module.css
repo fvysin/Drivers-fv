@@ -1,0 +1,25 @@
+.search-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-box {
+    display: flex;
+    align-items: center;
+  }
+  
+  .input {
+    padding: 8px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  
+  
+  
+  .labelraya2 {
+    margin: 0 10px;
+    color: white;
+  }
